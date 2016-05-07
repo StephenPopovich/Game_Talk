@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "new_chat",
   "version": "1.0.0",
   "description": "New chatroom with priavte messaging and saved messages",
@@ -10,5 +11,20 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^4.4.12"
+=======
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+>>>>>>> 7ee985f5891c57a25e4af7525a7f1e6a1655959b
   }
 }
