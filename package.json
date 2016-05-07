@@ -1,0 +1,14 @@
+{
+  "name": "new_chat",
+  "version": "1.0.0",
+  "description": "New chatroom with priavte messaging and saved messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Popovich",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.4.12"
+  }
+}
